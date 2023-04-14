@@ -1,0 +1,150 @@
+.group-inner,
+.jio-1-icon1 {
+  position: absolute;
+  top: 0;
+  height: 40px;
+}
+.group-inner {
+  left: 0;
+  background-color: var(--color-darkblue-100);
+  width: 360px;
+}
+.jio-1-icon1 {
+  left: 145px;
+  width: 69px;
+  object-fit: cover;
+}
+.rectangle-container,
+.register-form {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 40px;
+}
+.register-form {
+  top: 100px;
+  left: 51px;
+  font-size: var(--font-size-15xl);
+  font-weight: 900;
+  display: inline-block;
+  width: 264px;
+  height: 71px;
+}
+.name,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+}
+.name {
+  top: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 82px;
+  height: 22px;
+}
+.rectangle-div {
+  top: 35px;
+  background-color: var(--color-gainsboro-300);
+  width: 269px;
+  height: 36px;
+}
+.name-parent {
+  position: absolute;
+  top: 202px;
+  left: 33px;
+  width: 269px;
+  height: 71px;
+}
+.pin-code {
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 134px;
+  height: 35px;
+}
+.address,
+.pin-code,
+.pin-code-parent {
+  position: absolute;
+}
+.pin-code-parent {
+  top: 747px;
+  left: 33px;
+  width: 269px;
+  height: 71px;
+}
+.address {
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 147px;
+  height: 22px;
+}
+.address-parent,
+.dob-parent {
+  position: absolute;
+  top: 645px;
+  left: 33px;
+  width: 269px;
+  height: 71px;
+}
+.dob-parent {
+  top: 116px;
+  left: 0;
+}
+.email-parent {
+  top: 109px;
+  left: 0;
+  width: 269px;
+  height: 187px;
+}
+.email-parent,
+.group-child6,
+.phone-parent {
+  position: absolute;
+}
+.phone-parent {
+  width: 269px;
+  top: 318px;
+  left: 33px;
+  height: 296px;
+}
+.group-child6 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumslateblue);
+  width: 177px;
+  height: 58px;
+}
+.submit {
+  position: absolute;
+  top: 11px;
+  left: 41px;
+  font-weight: 900;
+  display: inline-block;
+  width: 148px;
+  height: 35px;
+}
+.group-div {
+  position: absolute;
+  top: 889px;
+  left: 74px;
+  width: 189px;
+  height: 58px;
+  font-size: var(--font-size-lgi);
+  color: var(--primary-contrast);
+}
+.android-large-2 {
+  position: relative;
+  background-color: var(--primary-contrast);
+  width: 100%;
+  height: 1037px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

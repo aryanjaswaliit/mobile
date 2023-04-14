@@ -1,0 +1,102 @@
+.android-large-1-child {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  background-color: rgba(13, 12, 12, 0.5);
+  width: 360px;
+  height: 724px;
+}
+.group-child,
+.jio-1-icon {
+  position: absolute;
+  top: 0;
+  height: 40px;
+}
+.group-child {
+  left: 0;
+  background-color: var(--color-darkblue-100);
+  width: 360px;
+}
+.jio-1-icon {
+  left: 145px;
+  width: 69px;
+  object-fit: cover;
+}
+.phone-f1-1-icon,
+.rectangle-parent {
+  position: absolute;
+  left: 0;
+}
+.rectangle-parent {
+  top: 0;
+  width: 360px;
+  height: 40px;
+}
+.phone-f1-1-icon {
+  top: 40px;
+  width: 373px;
+  height: 726px;
+  object-fit: cover;
+}
+.free,
+.jio-phone-5g {
+  margin: 0;
+}
+.free {
+  font-size: var(--font-size-5xl);
+}
+.jio-phone-5g-container {
+  position: absolute;
+  top: 421px;
+  left: 91px;
+  font-weight: 900;
+  display: inline-block;
+  width: 251px;
+  height: 139px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumslateblue);
+  width: 177px;
+  height: 58px;
+}
+.register-now {
+  position: absolute;
+  top: 12px;
+  left: 17px;
+  font-weight: 900;
+  display: inline-block;
+  width: 148px;
+  height: 35px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 663px;
+  left: 91px;
+  width: 177px;
+  height: 58px;
+  font-size: var(--font-size-lgi);
+  color: var(--primary-contrast);
+}
+.phone-f2-1-icon {
+  position: absolute;
+  top: 766px;
+  left: 0;
+  width: 360px;
+  height: 755px;
+  object-fit: cover;
+}
+.android-large-1 {
+  position: relative;
+  background-color: var(--primary-contrast);
+  width: 100vw;
+  height: 1588px;
+  overflow: hidden;
+  text-align: left;
+  
+  font-size: 48px;
+  color: #fdf8f8;
+  font-family: var(--font-inter);
+}
